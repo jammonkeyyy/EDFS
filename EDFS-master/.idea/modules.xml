@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataNode/DataNode.iml" filepath="$PROJECT_DIR$/DataNode/DataNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EDFS.iml" filepath="$PROJECT_DIR$/EDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NameNode/NameNode.iml" filepath="$PROJECT_DIR$/NameNode/NameNode.iml" />
+    </modules>
+  </component>
+</project>

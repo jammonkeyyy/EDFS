@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EDFS-master/DataNode/DataNode.iml" filepath="$PROJECT_DIR$/EDFS-master/DataNode/DataNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EDFS-master/EDFS.iml" filepath="$PROJECT_DIR$/EDFS-master/EDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EDFS-master.iml" filepath="$PROJECT_DIR$/.idea/EDFS-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EDFS-master/NameNode/NameNode.iml" filepath="$PROJECT_DIR$/EDFS-master/NameNode/NameNode.iml" />
+    </modules>
+  </component>
+</project>
