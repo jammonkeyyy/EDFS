@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0fe6bc-93b6-46af-a071-39b09e5020fd" name="Default Changelist" comment="namenode">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/DataNode/target/classes/Service/ServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/DataNode/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/DataNode/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/DataNode/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/DataNode/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/NameNode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/src/main/java/DataNode/DataNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/src/main/java/DataNode/DataNodeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/src/main/java/FileSystem/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/src/main/java/FileSystem/FileSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/src/main/java/FileSystem/MyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/src/main/java/NameNode/NameNodeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/classes/DataNode/DataNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/classes/DataNode/DataNodeManager.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/classes/FileSystem/Block.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/classes/FileSystem/FileSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/classes/FileSystem/MyFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/classes/NameNode/NameNodeApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDFS-master/NameNode/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/EDFS-master/resource/DataNode结构.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/EDFS-master/resource/FileSystem结构.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/EDFS-master/resource/a文件内容.png" afterDir="false" />
@@ -37,6 +12,7 @@
       <change afterPath="$PROJECT_DIR$/EDFS-master/resource/下载得到的PostMan输出.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/EDFS-master/resource/下载得到的Temp目录.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/EDFS-master/resource/获取列表.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/EDFS-master/DataNode/target/" />
     <ignored path="$PROJECT_DIR$/EDFS-master/target/" />
@@ -60,26 +36,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EDFS-master/resource/a文件内容.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EDFS-master/resource/FileSystem结构.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EDFS-master/resource/idea输出结果.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EDFS-master/resource/DataNode结构.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EDFS-master/DataNode/src/main/java/Service/ServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -89,6 +50,41 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EDFS-master/NameNode/src/main/java/NameNode/NameNodeApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-342">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EDFS-master/NameNode/target/classes/FileSystem/Block.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-243" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EDFS-master/NameNode/target/classes/FileSystem/FileSystem.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-912">
+              <folding>
+                <element signature="e#0#2439#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EDFS-master/NameNode/target/classes/FileSystem/MyFile.class">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -174,6 +170,70 @@
               <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
               <item name="DataNode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="EDFS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="NameNode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDFS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="NameNode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDFS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="NameNode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDFS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="NameNode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDFS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="NameNode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NameNode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDFS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="NameNode" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDFS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="NameNode" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDFS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EDFS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="NameNode" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="FileSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -221,7 +281,7 @@
       <updated>1560670071443</updated>
       <workItem from="1560670072708" duration="1779000" />
       <workItem from="1560672183341" duration="5608000" />
-      <workItem from="1560741939333" duration="865000" />
+      <workItem from="1560741939333" duration="2030000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1560677624051</created>
@@ -230,11 +290,25 @@
       <option name="project" value="LOCAL" />
       <updated>1560677624051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="namenode">
+      <created>1560746588688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560746588688</updated>
+    </task>
+    <task id="LOCAL-00003" summary="namenode1">
+      <created>1560754850392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560754850392</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8252000" />
+    <option name="totallyTimeSpent" value="9417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -255,13 +329,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32931727" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -277,9 +351,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="namenode" />
+    <MESSAGE value="namenode1" />
+    <option name="LAST_COMMIT_MESSAGE" value="namenode1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/EDFS-master/DataNode/pom.xml">
@@ -336,16 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EDFS-master/NameNode/src/main/java/NameNode/NameNodeApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EDFS-master/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -389,6 +466,33 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EDFS-master/NameNode/src/main/java/NameNode/NameNodeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EDFS-master/NameNode/target/classes/FileSystem/Block.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EDFS-master/NameNode/target/classes/FileSystem/FileSystem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <folding>
+            <element signature="e#0#2439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EDFS-master/NameNode/target/classes/FileSystem/MyFile.class">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
