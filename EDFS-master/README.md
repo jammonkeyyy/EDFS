@@ -24,7 +24,7 @@ mvn spring-boot:run -Dserver.port=8009
 
 GET /AllFile - 列出文件系统/目录内容
 
-GET /a.txt - 下载a.txt文件
+GET /a.txt - 下载a.txt文件（不限于txt）
 
 POST /a.txt - 上传a.txt文件
 
@@ -47,11 +47,10 @@ NameNode作为负责所有业务逻辑的节点，维护了两个数据结构，
 ```
 public String nameNodeTempDir="F:/DFSData/nameNodeTemp/";
 ```
-请保证此目录存在，（并未设置强制建立，若不存在可能会出错）
+请保证此目录存在，（若不存在会出错）
 
-接受到上传的文件后会在NameNode分块，并封装成文件保存在上述目录中，文件取名：上传的文件名（不加后缀）.blockId(0到n)
+接受到上传的文件后会在NameNode分块，并封装成文件保存在上述目录中
 
-分块后会根据副本数选择DataNode发放.
 ***
 #### 下载文件
 
