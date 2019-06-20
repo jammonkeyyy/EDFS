@@ -59,6 +59,6 @@ public String nameNodeTempDir="F:/DFSData/nameNodeTemp/";
 ***
 #### 删除文件
 
-比较简单，不赘述
+删除某个文件
 
 
